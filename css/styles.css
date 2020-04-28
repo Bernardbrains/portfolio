@@ -20,3 +20,7 @@ footer{
 .ABOUT-ME{
   background-color: purple;
 }
+.PROJECTS{
+  border: 2px solid blue;
+  padding: 10px;
+}
