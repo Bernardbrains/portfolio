@@ -14,6 +14,7 @@ The user interface improvement still in place.Trying to  work out also on a robu
 ## Technologies Used
 HTML and CSS
 ## Support and contact details
+click on this link to access my webpage https://bernardbrains.github.io/portfolio/
 incase of any issues or security vulnerabilities contact me @ bernardmuiruri207@gmail.com
 ### License
 This web app is open sourced and licensed under MIT licensing 
